@@ -32,7 +32,8 @@ if (!global.workspace_manager) {
  */
 var modules = [
     'tiling', 'navigator', 'keybindings', 'scratch', 'liveAltTab', 'utils',
-    'stackoverlay', 'app', 'kludges', 'topbar', 'settings','gestures'
+    'stackoverlay', 'app', 'kludges', 'topbar', 'settings', 'gestures', 
+    'overviewCleaner', 'workspaceAnimationDisable'
 ];
 
 /**
